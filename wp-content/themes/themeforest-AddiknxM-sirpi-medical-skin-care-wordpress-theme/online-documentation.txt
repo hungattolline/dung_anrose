@@ -1,0 +1,3 @@
+= Sirpi WordPress Theme Online Documentation =
+
+https://docs.wedesignthemes.com/sirpi/
